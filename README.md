@@ -42,7 +42,7 @@ This project uses [TheMealDB API](https://www.themealdb.com/api.php) to retrieve
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/newmorin2/Recipe-Finder.git
    ```
 
 2. Navigate into the project folder:
