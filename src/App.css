@@ -1,0 +1,19 @@
+.App{
+    background-color: brown;
+}
+.recipeCard{
+    background-color: rgb(235, 225, 225) !important;
+}
+/* Desktop */
+.recipe-image {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+    .recipe-image {
+        height: 170px;
+    }
+}
